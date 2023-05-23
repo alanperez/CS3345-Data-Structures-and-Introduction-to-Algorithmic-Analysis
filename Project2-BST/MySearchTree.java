@@ -1,8 +1,6 @@
 
 /*
  *   Filename:   Project 2
- *   Date: March 07, 2021
- *   Course: CS 3345.001
  *   Version: 1.0
  *   Copyright: 2021, All Rights Reserved
  *
