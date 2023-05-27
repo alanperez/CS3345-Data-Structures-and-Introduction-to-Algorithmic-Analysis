@@ -8,7 +8,7 @@ Previous course work from CS 3345
  It serves as an exercise in working with linked lists and nodes.
 the [main program is here](https://github.com/alanperez/CS3345-Data-Structures-and-Introduction-to-Algorithmic-Analysis/blob/main/Project1/NameList.java)
 
-# Project 2 Overview - GuessingGame
+# Project 2 Overview - BST
 
 the [main program is here](https://github.com/alanperez/CS3345-Data-Structures-and-Introduction-to-Algorithmic-Analysis/blob/main/Project2-BST/MySearchTree.java)
 
